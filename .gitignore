@@ -1,0 +1,15 @@
+output/
+venv/
+__pycache__/
+*.pyc
+audio/
+output/
+videos/
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.m4v
+*.mov
+*.avi
+*.mkv
